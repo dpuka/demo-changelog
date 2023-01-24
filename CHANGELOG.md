@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/dpuka/demo-changelog/compare/v0.1.0...v0.2.0) (2023-01-24)
+
+
+### Features
+
+* adding release action ([cf2a908](https://github.com/dpuka/demo-changelog/commit/cf2a90884e268a6b444d8566e834b3fd92d0736d))
+
+
+
 # [0.1.0](https://github.com/dpuka/demo-changelog/compare/v0.0.1...v0.1.0) (2023-01-24)
 
 
