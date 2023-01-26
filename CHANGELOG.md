@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/dpuka/demo-changelog/compare/v0.3.0...v0.3.1) (2023-01-26)
+
+
+### Bug Fixes
+
+* fix small file ([e476267](https://github.com/dpuka/demo-changelog/commit/e476267fb3d6215f67e6fb2ee380861e12aff4cb))
+
+
+
 # [0.3.0](https://github.com/dpuka/demo-changelog/compare/v0.2.0...v0.3.0) (2023-01-26)
 
 
