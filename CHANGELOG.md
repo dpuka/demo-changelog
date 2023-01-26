@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/dpuka/demo-changelog/compare/v0.2.0...v0.3.0) (2023-01-26)
+
+
+### Features
+
+* add testing2.txt ([7acf0dc](https://github.com/dpuka/demo-changelog/commit/7acf0dc16bd00678e1bff0dd6259fdca0f6f45b3))
+
+
+
 # [0.2.0](https://github.com/dpuka/demo-changelog/compare/v0.1.0...v0.2.0) (2023-01-24)
 
 
